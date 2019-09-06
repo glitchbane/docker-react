@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there.  Look at you  You've been changed and you're on Nginx.
+          Hi there.  Look at you  I was changed on the feature branch.
         </p>
         <a
           className="App-link"
